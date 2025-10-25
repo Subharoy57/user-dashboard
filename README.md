@@ -58,3 +58,11 @@ npm install
 # Start the development server
 npm run dev
 
+📸 Screenshots / Demo
+
+Here you can add screenshots of your app to show its interface. Example:
+
+
+<img width="1366" height="818" alt="screencapture-localhost-5173-2025-10-25-19_38_20" src="https://github.com/user-attachments/assets/9e273441-b342-482f-a18f-ec3970729abe" />
+
+
