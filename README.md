@@ -1,7 +1,7 @@
 # 🧩 User Management Dashboard
 
 A simple and responsive **React.js (Vite)** web application that allows viewing, searching, and adding users.  
-This project was created as part of the **Front End Developer Intern assignment** for **UniConverge Technologies Pvt. Ltd.**
+
 
 ---
 
