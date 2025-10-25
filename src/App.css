@@ -1,0 +1,9 @@
+.app-root { background: #f6f8fb; min-height: 100vh; color: #333; }
+.container { max-width: 960px; margin: 0 auto; padding: 16px; }
+.app-header { background: #fff; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+.header-inner { display: flex; justify-content: space-between; align-items: center; }
+.brand { margin: 0; font-size: 20px; color: #0b5ed7; }
+.nav-link { margin-right: 12px; color: #333; text-decoration: none; }
+.btn { padding: 8px 12px; border-radius: 6px; text-decoration: none; display: inline-block; }
+.btn-primary { background: #0b5ed7; color: #fff; }
+.main-content { padding-top: 20px; }

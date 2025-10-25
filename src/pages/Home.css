@@ -1,0 +1,11 @@
+.home-page { }
+.search-row { margin-bottom: 16px; }
+.input-search { width: 100%; padding: 10px 12px; border: 1px solid #dcdfe6; border-radius: 8px; }
+.input-search:focus { outline: none; box-shadow: 0 0 0 3px rgba(11,94,215,0.12); border-color: #0b5ed7; }
+.muted { color: #6b7280; }
+.grid-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 16px; }
+.card { background: #fff; padding: 14px; border-radius: 10px; box-shadow: 0 1px 3px rgba(16,24,40,0.04); transition: transform .12s ease, box-shadow .12s ease; }
+.card:hover { transform: translateY(-4px); box-shadow: 0 6px 18px rgba(11,94,215,0.08); }
+.card-title { margin: 0 0 8px 0; font-size: 16px; color: #111827; }
+.card-sub { margin: 0 0 6px 0; color: #4b5563; font-size: 14px; }
+.link-details { color: #0b5ed7; text-decoration: none; font-size: 14px; }

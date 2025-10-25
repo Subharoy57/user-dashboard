@@ -1,0 +1,4 @@
+.detail-card { background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 1px 4px rgba(0,0,0,0.04); }
+.btn-back { background: none; border: none; color: #0b5ed7; cursor: pointer; margin-bottom: 10px; }
+.detail-name { margin-top: 0; color: #111827; }
+.address h4 { margin-bottom: 6px; }
