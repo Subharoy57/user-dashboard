@@ -63,6 +63,13 @@ npm run dev
 Here you can add screenshots of your app to show its interface. Example:
 
 
-<img width="1366" height="818" alt="screencapture-localhost-5173-2025-10-25-19_38_20" src="https://github.com/user-attachments/assets/9e273441-b342-482f-a18f-ec3970729abe" />
+<img width="1366" height="818" alt="Home Page" src="https://github.com/user-attachments/assets/c30449c7-5359-4b3b-9b40-0f34816102ec" />
+
+<img width="1366" height="633" alt="User Details Page" src="https://github.com/user-attachments/assets/f5a55d9b-3328-4ee3-a886-bd354352b67e" />
+
+<img width="1366" height="633" alt="Add User Form" src="https://github.com/user-attachments/assets/7f7bd9f8-59e5-424e-9319-c5a2de5df9e0" />
+
+
+
 
 
